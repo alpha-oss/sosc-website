@@ -8,7 +8,7 @@ link: 'https://hacknight.netlify.app/'
 ---
 
 ### About the Event 
-Hacktoberfest Hacknight 2020 is an 28 hour overnight  virtual- hackathon being held on october 3rd & 4th . The event will start with workshop on Git + GitHub by GitHub. After this the Hackathon will commence.
+Hacktoberfest Hacknight 2020 is an 28 hour overnight  virtual- hackathon being held on october 3rd & 4th . The event will start with workshop on Git + GitHub by   GitHub. After this the Hackathon will commence.
 So hurry! Form a team today and register at [hacknight.netlify.app](https://hacknight.netlify.app/) .             
 
 
